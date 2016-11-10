@@ -15,6 +15,9 @@ Besides: Its really faster to get to the real work of writing notes and
 processing issues - like we should get the code written instead of loosing
 time in the mere access to the tools we'd like to use.
 
+[Issues](https://gitlab.com/backendzeit/markdown-demo/blob/trackdown/issues.md)
+[Roadmap](https://gitlab.com/backendzeit/markdown-demo/blob/trackdown/roadmap.md)
+
 ## Code
 
 Nothing special in that area: You simple use [GIT][git]. The approach given here
