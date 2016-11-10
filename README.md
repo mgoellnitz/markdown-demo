@@ -55,3 +55,4 @@ hand locally.
 [gitlab]: https://gitlab.com/
 [github]: https://github.com/
 [trackdown]: http://mgoellnitz.github.io/trackdown/
+[mdwiki]: http://mdwiki.info
