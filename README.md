@@ -48,6 +48,16 @@ The advantage of this approach is, that you never - like with the separate
 wiki repositories - are in a situation, where you don't have the issues at
 hand locally.
 
+```
+# ticketing setup done here
+trackdown.sh init
+trackdown.sh use
+git add .gitignore
+git commit -m "..." .gitignore
+git push
+git push origin trackdown
+```
+
 
 [markdown]: https://daringfireball.net/projects/markdown/
 [git]: http://git-scm.com/
