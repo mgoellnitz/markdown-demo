@@ -2,16 +2,17 @@
 
 This is an illustrator project without any real code inside.
 
-See Wiki above why this was done and what it is meant to show.
+See Wiki via its link in the navigation bar above why this was done and what 
+it is meant to show.
 
 * [Issues](https://gitlab.com/backendzeit/markdown-demo/blob/trackdown/issues.md)
 * [Roadmap](https://gitlab.com/backendzeit/markdown-demo/blob/trackdown/roadmap.md)
-* [Wiki](https://gitlab.com/backendzeit/markdown-demo/wikis/home)
 
-(The links above only point to the main site. There may be mirrors of the repository to show how they interact with other services than [GitLab][giblab])
+(The links above only point to the main site. There may be mirrors of the 
+repository to show how they interact with other services than [GitLab][gitlab])
 
-It is meant to demonstrate, how the gap between the git approach to have
-your code repository with history and branches local to your system while
+This project is meant to demonstrate, how the gap between the git approach to 
+have your code repository with history and branches local to your system while
 the project documentation wiki is remote as is the issue tracker.
 
 With the usual setup you would not be able to commit in disconnected situations,
