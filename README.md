@@ -5,11 +5,16 @@ This is an illustrator project without any real code inside.
 See Wiki via its link in the navigation bar above why this was done and what 
 it is meant to show.
 
-* [Issues](https://gitlab.com/backendzeit/markdown-demo/blob/trackdown/issues.md)
-* [Roadmap](https://gitlab.com/backendzeit/markdown-demo/blob/trackdown/roadmap.md)
+* Issues: 
+  [gitlab](https://gitlab.com/backendzeit/markdown-demo/blob/trackdown/issues.md)
+  [github](https://github.com/mgoellnitz/markdown-demo/blob/trackdown/issues.md)
+* Roadmap:
+  [GitLab](https://gitlab.com/backendzeit/markdown-demo/blob/trackdown/roadmap.md)
+  [GitHub](https://github.com/mgoellnitz/markdown-demo/blob/trackdown/roadmap.md)
 
-(The links above only point to the main site. There may be mirrors of the 
-repository to show how they interact with other services than [GitLab][gitlab])
+(The links above only point to the root repository at [GitLab][gitlab] and the
+main mirrors. There may be other mirrors of this repository to show how they 
+interact with other services.)
 
 This project is meant to demonstrate, how the gap between the git approach to 
 have your code repository with history and branches local to your system while
