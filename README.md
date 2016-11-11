@@ -14,7 +14,7 @@ it is meant to show.
 
 (The links above only point to the root repository at [GitLab][gitlab] and the
 main mirror. [Bitbucket][bitbucket] doesn't seem to have a stable link to the 
-lastest issues and roadmap file. There may be other mirrors of this repository 
+latest issues and roadmap file. There may be other mirrors of this repository 
 to show how they interact with other services.)
 
 This project is meant to demonstrate, how the gap between the git approach to 
