@@ -6,14 +6,15 @@ See Wiki via its link in the navigation bar above why this was done and what
 it is meant to show.
 
 * Issues: 
-  [gitlab](https://gitlab.com/backendzeit/markdown-demo/blob/trackdown/issues.md)
-  [github](https://github.com/mgoellnitz/markdown-demo/blob/trackdown/issues.md)
+  [GitLab](https://gitlab.com/backendzeit/markdown-demo/blob/trackdown/issues.md)
+  [GitHub](https://github.com/mgoellnitz/markdown-demo/blob/trackdown/issues.md)
 * Roadmap:
   [GitLab](https://gitlab.com/backendzeit/markdown-demo/blob/trackdown/roadmap.md)
   [GitHub](https://github.com/mgoellnitz/markdown-demo/blob/trackdown/roadmap.md)
 
 (The links above only point to the root repository at [GitLab][gitlab] and the
-main mirrors. There may be other mirrors of this repository to show how they 
+main mirror. Bitbuckets doesn't seem to have a stable link to the lastest issues
+and roadmap file. There may be other mirrors of this repository to show how they 
 interact with other services.)
 
 This project is meant to demonstrate, how the gap between the git approach to 
