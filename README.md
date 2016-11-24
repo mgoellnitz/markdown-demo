@@ -8,13 +8,15 @@ it is meant to show.
 * Issues: 
   [GitLab](https://gitlab.com/backendzeit/markdown-demo/blob/trackdown/issues.md)
   [GitHub](https://github.com/mgoellnitz/markdown-demo/blob/trackdown/issues.md)
+  [PikaCode](http://v2.pikacode.com/backendzeit/markdown-demo/src/trackdown/issues.md)
 * Roadmap:
   [GitLab](https://gitlab.com/backendzeit/markdown-demo/blob/trackdown/roadmap.md)
   [GitHub](https://github.com/mgoellnitz/markdown-demo/blob/trackdown/roadmap.md)
+  [PikaCode](http://v2.pikacode.com/backendzeit/markdown-demo/src/trackdown/roadmap.md)
 
-(The links above only point to the root repository at [GitLab][gitlab] and the
-main mirror. [Bitbucket][bitbucket] doesn't seem to have a stable link to the 
-latest issues and roadmap file. There may be other mirrors of this repository 
+(The links above had to be presented as direct links to [GitLab](gitlab) and the
+mirror sites, while [Bitbucket][bitbucket] doesn't seem to have a stable link to 
+the  latest issues and roadmap file. There may be other mirrors of this repository 
 to show how they interact with other services.)
 
 This project is meant to demonstrate, how the gap between the git approach to 
@@ -35,5 +37,6 @@ time in the mere access to the tools we'd like to use.
 [bitbucket]: https://bitbucket.org/
 [gitlab]: https://gitlab.com/
 [github]: https://github.com/
+[pikacode]: https://v2.pikacode.com/
 [trackdown]: http://mgoellnitz.github.io/trackdown/
 [mdwiki]: http://mdwiki.info
