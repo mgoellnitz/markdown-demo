@@ -35,6 +35,7 @@ time in the mere access to the tools we'd like to use.
 
 [markdown]: https://daringfireball.net/projects/markdown/
 [git]: http://git-scm.com/
+[hg]: https://www.mercurial-scm.org/
 [bitbucket]: https://bitbucket.org/
 [gitlab]: https://gitlab.com/
 [github]: https://github.com/
