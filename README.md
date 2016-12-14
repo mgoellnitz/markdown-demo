@@ -26,7 +26,7 @@ is the issue tracker.
 
 With the usual setup you would not be able to commit in disconnected situations,
 since you would not be able to dig out the issue reference to mention in your
-commit message. Likewise you cannot brain-bumpd the documentation notes 
+commit message. Likewise you cannot brain-dump the documentation notes 
 immediately as you write the code since the wiki to hold that is remote.
 
 Besides: Its really faster to get to the real work of writing notes and
