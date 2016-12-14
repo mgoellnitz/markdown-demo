@@ -20,6 +20,23 @@ No comments so far...
 
     resolve #ISSUE and roadmap file links added to readme
 
+## MERCURIAL parallel project should be set up and published
+
+*sprint1*
+
+### Description
+
+TrackDown received some enhancements so it now is possible to set up a
+completely symmetrical project to the git-based layout with Mercurial. Despite
+all the common steps it is no good idea to try to have it in the same folder
+though.
+
+### Comments
+
+No comments so far...
+
+### Commits
+
 ## DEMO issue just to have something to show.
 
 *noversion*

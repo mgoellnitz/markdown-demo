@@ -1,4 +1,7 @@
+TrackDown base directory /home/martin/proj/development/issues/markdown-demo
 # Roadmap
+
+[Issue Collection](issues)
 
 ## noversion:
 
@@ -9,8 +12,9 @@
 
 ## sprint1:
 
-100% (1 / 1) completed
-0% (0 / 1) in progress
+50% (1 / 2) completed
+0% (0 / 2) in progress
 
+* MERCURIAL parallel project should be set up and published
 * ISSUE and roadmap reference in README (resolved)
 
