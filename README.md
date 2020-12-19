@@ -19,10 +19,10 @@ mirror sites, while [Bitbucket][bitbucket] doesn't seem to have a stable link to
 the  latest issues and roadmap file. There may be other mirrors of this repository 
 to show how they interact with other services.)
 
-This project is meant to demonstrate, how the gap between the [Mercurial][hg], 
-[GIT][git], or other DVCS approach to have your code repository with history and 
-branches local to your system while the project documentation wiki is remote as 
-is the issue tracker.
+This project is meant to demonstrate, how to close the gap between the
+[Mercurial][hg], [GIT][git], or other DVCS approach to have your code
+repository with history and  branches local to your system and the project 
+documentation wiki and issue tracker sitting on remote systems.
 
 With the usual setup you would not be able to commit in disconnected situations,
 since you would not be able to dig out the issue reference to mention in your
