@@ -1,6 +1,6 @@
 # All Markdown Project Setup Demonstrator
 
-This is an illustrator project without any real code inside.
+This is an Illustrator project without any real code inside.
 
 See Wiki via its link in the navigation bar above or on the left, why this was 
 done and what it is meant to show.
@@ -24,12 +24,12 @@ This project is meant to demonstrate, how to close the gap between the
 repository with history and  branches local to your system and the project 
 documentation wiki and issue tracker sitting on remote systems.
 
-With the usual setup you would not be able to commit in disconnected situations,
+With the usual setup, you would not be able to commit in disconnected situations,
 since you would not be able to dig out the issue reference to mention in your
-commit message. Likewise you cannot brain-dump the documentation notes 
+commit message. Likewise, you cannot brain-dump the documentation notes
 immediately as you write the code since the wiki to hold that is remote.
 
-Besides: Its really faster to get to the real work of writing notes and
+Besides: It is really faster to get to the real work of writing notes and
 processing issues - like we should get the code written instead of loosing
 time in the mere access to the tools we'd like to use.
 
